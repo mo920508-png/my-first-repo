@@ -8,3 +8,4 @@
 - `git add` 暂存改动
 - `git commit` 保存一次快照
 - `git push` 推送到 GitHub
+- 我成功把第一个仓库推上了 GitHub
